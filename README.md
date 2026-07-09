@@ -55,6 +55,8 @@ Step-by-step description of the flow of our solution:
 •	Business logic is applied to build aggregated Gold tables (claims summary, drug analytics, capacity KPIs, patient summary).
 •	Power BI connects to the Gold layer to power an interactive dashboard for stakeholders.
  
+
+
 Presentation Materials
 
 AWS Setup
