@@ -10,6 +10,7 @@ Table of Contents
 •	Additional Details
 •	About This Project
  
+
 Project Summary
 
 The Issue We Are Hoping to Solve
