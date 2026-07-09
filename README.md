@@ -51,7 +51,7 @@ AWS Setup
 
 S3 Bucket with Source Files
 
-![S3 Bucket](s3-bucket-with-source-files.png)
+![S3 Bucket](images/aws-s3-bucket.png)
 
 
 
